@@ -36,4 +36,37 @@ $ java -jar Apriori.jar ... > [output file]
 
 ### 以`D1kT10N500.txt`做為資料集輸入
 
-<img src="">
+<img style="width:45%" src="https://github.com/Chih-Ling-Hsu/Apriori-Java/blob/master/pics/D1kT10N500.1.png?raw=true">
+<img style="width:45%" src="https://github.com/Chih-Ling-Hsu/Apriori-Java/blob/master/pics/D1kT10N500.4.png?raw=true">
+<img style="width:45%" src="https://github.com/Chih-Ling-Hsu/Apriori-Java/blob/master/pics/D1kT10N500.2.png?raw=true">
+<img style="width:45%" src="https://github.com/Chih-Ling-Hsu/Apriori-Java/blob/master/pics/D1kT10N500.5.png?raw=true">
+<img style="width:45%" src="https://github.com/Chih-Ling-Hsu/Apriori-Java/blob/master/pics/D1kT10N500.3.png?raw=true">
+<img style="width:45%" src="https://github.com/Chih-Ling-Hsu/Apriori-Java/blob/master/pics/D1kT10N500.6.png?raw=true">
+
+### 以`D10kT10N1k.txt`做為資料集輸入
+
+<img style="width:45%" src="https://github.com/Chih-Ling-Hsu/Apriori-Java/blob/master/pics/D10kT10N1k.1.png?raw=true">
+<img style="width:45%" src="https://github.com/Chih-Ling-Hsu/Apriori-Java/blob/master/pics/D10kT10N1k.4.png?raw=true">
+<img style="width:45%" src="https://github.com/Chih-Ling-Hsu/Apriori-Java/blob/master/pics/D10kT10N1k.2.png?raw=true">
+<img style="width:45%" src="https://github.com/Chih-Ling-Hsu/Apriori-Java/blob/master/pics/D10kT10N1k.5.png?raw=true">
+<img style="width:45%" src="https://github.com/Chih-Ling-Hsu/Apriori-Java/blob/master/pics/D10kT10N1k.3.png?raw=true">
+<img style="width:45%" src="https://github.com/Chih-Ling-Hsu/Apriori-Java/blob/master/pics/D10kT10N1k.6.png?raw=true">
+
+
+### 以`D100kT10N1k.txt`做為資料集輸入
+
+<img style="width:45%" src="https://github.com/Chih-Ling-Hsu/Apriori-Java/blob/master/pics/D100kT10N1k.1.png?raw=true">
+<img style="width:45%" src="https://github.com/Chih-Ling-Hsu/Apriori-Java/blob/master/pics/D100kT10N1k.4.png?raw=true">
+<img style="width:45%" src="https://github.com/Chih-Ling-Hsu/Apriori-Java/blob/master/pics/D100kT10N1k.2.png?raw=true">
+<img style="width:45%" src="https://github.com/Chih-Ling-Hsu/Apriori-Java/blob/master/pics/D100kT10N1k.5.png?raw=true">
+<img style="width:45%" src="https://github.com/Chih-Ling-Hsu/Apriori-Java/blob/master/pics/D100kT10N1k.3.png?raw=true">
+<img style="width:45%" src="https://github.com/Chih-Ling-Hsu/Apriori-Java/blob/master/pics/D100kT10N1k.6.png?raw=true">
+
+### 以`Mushroom.txt`做為資料集輸入
+
+<img style="width:45%" src="https://github.com/Chih-Ling-Hsu/Apriori-Java/blob/master/pics/Mushroom.1.png?raw=true">
+<img style="width:45%" src="https://github.com/Chih-Ling-Hsu/Apriori-Java/blob/master/pics/Mushroom.4.png?raw=true">
+<img style="width:45%" src="https://github.com/Chih-Ling-Hsu/Apriori-Java/blob/master/pics/Mushroom.2.png?raw=true">
+<img style="width:45%" src="https://github.com/Chih-Ling-Hsu/Apriori-Java/blob/master/pics/Mushroom.5.png?raw=true">
+<img style="width:45%" src="https://github.com/Chih-Ling-Hsu/Apriori-Java/blob/master/pics/Mushroom.3.png?raw=true">
+<img style="width:45%" src="https://github.com/Chih-Ling-Hsu/Apriori-Java/blob/master/pics/Mushroom.6.png?raw=true">
