@@ -22,7 +22,7 @@ $ java -jar Apriori.jar ... > [output file]
 
 下圖為範例示意截圖
 
-![](pics/execution.png)
+![](https://github.com/Chih-Ling-Hsu/Apriori-Java/blob/master/pics/execution.png?raw=true)
 
 ## 實作上遇到的問題與使用到的方法
 
